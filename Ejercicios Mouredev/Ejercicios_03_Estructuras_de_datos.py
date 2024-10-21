@@ -39,6 +39,37 @@ my_tuple = tuple(sorted(my_tuple)) # Ordenacion
 print(my_tuple)
 
 
+# Sets
+
+my_set = {"Brais", "Moure", "@mouredev" ,"36"}
+print(my_set)
+my_set.add("mouredev@gamil.com") # Insercion
+print(my_set)
+my_set.add("mouredev@gamil.com") # No admite duplicados
+
+my_set.remove ("mouredev@gamil.com")
+print(my_set)
+
+
+# Diccionarios
+
+my_dict = dict ={
+  "name": "Brais",
+  "surname": "Moure",
+  "alias": "@mouredev",
+  "age" : "36"
+  } 
+print(my_dict)
+
+my_dict["email"] = "mouredev@gamil.com"  # Insertar 
+
+print(my_dict)
+
+
+
+
+
+
  
 
 
