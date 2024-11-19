@@ -13,3 +13,11 @@
 
 import os
 
+file_name = " alrogon.txt"
+
+with open(file_name, "w") as file:
+  file.write("Alfonso Rodriguez\n")
+  file.write("36\n")
+  file.write("Python")
+  
+
