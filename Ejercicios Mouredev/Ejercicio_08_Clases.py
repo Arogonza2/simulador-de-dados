@@ -17,7 +17,7 @@ class Programer:
         self.languages = languages
         
     def print(self):
-        print(f"Nombre: {self.name}" | Edad: {self.age} | Lenguages: {self.languages}")
+        print(f"Nombre: {self.name} | Edad: {self.age} | Lenguages: {self.languages}")
               
               
 my_programer = Programer("Brais", 36, ["Python", "Kotlin","Swift"])
