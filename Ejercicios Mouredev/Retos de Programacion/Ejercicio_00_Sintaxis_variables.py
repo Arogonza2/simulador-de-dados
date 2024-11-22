@@ -25,7 +25,7 @@ my_int = 3          # Esto es un entero
 print(type(my_int))
 my_bool = True      #Esto es un booleano 
 print(type(my_bool))
-my_float = 1.5      # esto es un nuemro flotante 
+my_float = 1.5      # Esto es un nuemro flotante 
 print(type(my_float))
 
 
